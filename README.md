@@ -12,6 +12,7 @@ pip install workout-builder-streamlit
 Then:
 
 ```python
+import streamlit as st
 from workout_builder_streamlit import workout_builder
 
 st.title("Workout Builder")
