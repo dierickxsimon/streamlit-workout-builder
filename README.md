@@ -30,7 +30,7 @@ can be set to `False` to return an object of the differen workout blocks instead
 
 An example graph based on the data created by the workout builder:
 
-![Example graph](example.png)
+![Example graph](example_graph.png)
 
 
 
