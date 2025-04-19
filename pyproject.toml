@@ -1,6 +1,6 @@
 [project]
 name = "workout-builder-streamlit"
-version = "0.1.0"
+version = "0.1.1"
 description = "A streamlit component for designing workout plans."
 readme = "README.md"
 authors = [
